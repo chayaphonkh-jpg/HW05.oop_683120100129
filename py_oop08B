@@ -1,0 +1,37 @@
+
+
+class Rectangle:
+
+    def __init__(self, width:float=1.0, height:float=1.0):
+        self.__width = width
+        self.__height = height
+
+    #### getter setter width method
+    def get_width(self):
+        return self.__width
+    
+
+    def set_widsth(self,width:float=1.0):
+        self.__width = width
+
+
+
+    
+
+    def area(self):
+        return self.__width * self.__height
+    
+    def info(self):
+        return f"Rect [width: {self.__width:.2f} hight: {self.__height:.2f} area: {self.area():.2f}]"
+    
+
+
+    width = property(get_width,set_widsth)
+    
+###############################################
+r1 = Rectangle(4.0,6.0)
+print(r1.info())          
+r1.width = 8.0            #set
+print(r1.info())    
+w = r1.width           #get
+print(w)
