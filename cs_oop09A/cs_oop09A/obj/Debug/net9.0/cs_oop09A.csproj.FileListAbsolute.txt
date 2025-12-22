@@ -1,0 +1,14 @@
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\bin\Debug\net9.0\cs_oop09A.exe
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\bin\Debug\net9.0\cs_oop09A.deps.json
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\bin\Debug\net9.0\cs_oop09A.runtimeconfig.json
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\bin\Debug\net9.0\cs_oop09A.dll
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\bin\Debug\net9.0\cs_oop09A.pdb
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.GeneratedMSBuildEditorConfig.editorconfig
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.AssemblyInfoInputs.cache
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.AssemblyInfo.cs
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.csproj.CoreCompileInputs.cache
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.dll
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\refint\cs_oop09A.dll
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.pdb
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\cs_oop09A.genruntimeconfig.cache
+D:\chayaphon_OOP\cs\cs_oop09A\cs_oop09A\obj\Debug\net9.0\ref\cs_oop09A.dll
