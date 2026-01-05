@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+
+class Shape {
+public:
+    virtual double area() = 0 ;   // abstract method
+    virtual void info() = 0 ;
+};
+
+class C
+
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
