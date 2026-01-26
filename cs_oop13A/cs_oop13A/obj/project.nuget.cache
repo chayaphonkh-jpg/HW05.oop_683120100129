@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yyQbJAom/GA=",
+  "success": true,
+  "projectFilePath": "D:\\chayaphon_OOP\\cs\\cs_oop13A\\cs_oop13A\\cs_oop13A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\cs\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\cs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\cs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
